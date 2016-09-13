@@ -39,6 +39,19 @@
 
 ?>
 
+<br>
+
+
+<?php
+
+	echo date("d.m.o G.i.s l");
+
+
+
+
+
+?>
+
 
 
 
